@@ -15,7 +15,7 @@ public class SpeechToText01_main {
 		// TODO 自動生成されたメソッド・スタブ
 		SpeechToText service = new SpeechToText();
 		IamOptions options = new IamOptions.Builder()
-		  .apiKey("cLzKhaYuE_PG0MTIC7o7Hw9_8Zxc-S_oTfkoqUyqIGAa")
+		  .apiKey("＊＊＊＊＊")
 		  .build();
 		service.setIamCredentials(options);
 
